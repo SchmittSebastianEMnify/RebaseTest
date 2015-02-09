@@ -5,4 +5,6 @@ RebaseTest
 
 Änderung2
 
-Änderung 3
+Änderung3
+
+Änderung4
